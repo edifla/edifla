@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**edifla/edifla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá pessoal👋
+  
+  <h1>Informações sobre mim</h1>
+ 
+  * Atualmente, estou no 7° período da faculdade, cursando Ciências da computação
+  * Tenho 20 anos
+  * Sou do Cabo de santo agostinho, uma cidade proxima a Recife.
+  * Não tenho experiência de trabalho, atualmente estou a procura de um estágio na area de desenvolvimento web 
+  
+  
